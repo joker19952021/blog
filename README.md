@@ -5,4 +5,4 @@
 ### V8工作原理
 - [编译器和解释器：V8是如何执行一段JavaScript代码的？](https://github.com/joker19952021/blog/issues/1)
 ### 浏览器中的页面循环系统
-- [消息队列和事件循环：页面是怎么“活”起来的？](https://github.com/joker19952021/blog/issues/3)。
+- [消息队列和事件循环：页面是怎么“活”起来的？](https://github.com/joker19952021/blog/issues/3)
