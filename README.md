@@ -2,7 +2,7 @@
 ## 技术积累
 > 记录平时看到的零散技术积累
 - [Shell编程](https://github.com/joker19952021/blog/issues/4)
-
+- [npm和pnpm相关](https://github.com/joker19952021/blog/issues/5)
 ## 浏览器工作原理
 > 内容来自极客时间《浏览器工作原理与实践》- 李兵 课程学习笔记。具体内容根据自己理解有改动，不保证和课件内容一致。
 ### V8工作原理
