@@ -10,6 +10,8 @@
 - [编译器和解释器：V8是如何执行一段JavaScript代码的？](https://github.com/joker19952021/blog/issues/1)
 #### 浏览器中的页面循环系统
 - [消息队列和事件循环：页面是怎么“活”起来的？](https://github.com/joker19952021/blog/issues/3)
+- [WebAPI：setTimeout是如何实现的？](https://github.com/joker19952021/blog/issues/7)
 ## webpack
 ### 零散积累
 - [webpack零散知识积累](https://github.com/joker19952021/blog/issues/6)
+
